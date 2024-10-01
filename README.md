@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Mahima-Pattanayak driven B.Tech student majoring in Computer Science Engineering
+- 👋 Hi, I’m Mahima Pattanayak driven B.Tech student majoring in Computer Science Engineering
 - 👀 I bring a diverse skill set to the table, including proficiency in Web Development (HTML, CSS, JavaScript, MySQL), Ethical Hacking, Linux, and Machine Learning (Python). Additionally, I'm well-versed in fundamental languages like C , C++ and Java.
-- 🌱 I’m currently learning or working with new technologies to keep myself updated with the fast pacing cs journey 
+- 🌱 I’m currently learning or working with new technologies to keep myself updated with the fast pacing cs journey
+- 🎉 I have a completed internship in java programming and web development from AICTE.
 - 💞️ I’m looking to collaborate on prestigious companies and enthusiastic developers to give my knowledge a fine texture
 - 😄 Beyond the realm of technology, I am a nature enthusiast who finds solace in the great outdoors. A flair for graceful dancing, and a competitive spirit as a sportsperson.
